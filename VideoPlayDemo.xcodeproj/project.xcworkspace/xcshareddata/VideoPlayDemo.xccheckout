@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB464AFD-D09B-408F-A0DD-1A38C463204D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VideoPlayDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE63657DA33DFDE36AFC93542A8CB3EADA47114D</key>
+		<string>https://github.com/wangqi211/VideoPlayDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VideoPlayDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE63657DA33DFDE36AFC93542A8CB3EADA47114D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangqi211/VideoPlayDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE63657DA33DFDE36AFC93542A8CB3EADA47114D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE63657DA33DFDE36AFC93542A8CB3EADA47114D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VideoPlayDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
