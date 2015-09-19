@@ -49,7 +49,7 @@
 
 - (void)startPlay
 {
-    NSString *url = @"http://pl.youku.com/playlist/m3u8?ts=1437611403&keyframe=1&vid=322705573&type=mp4&sid=54376114036012118bdce&token=5999&oip=1008521675&ep=lPbLGsU5XIA9l1F102iprdzrMTJcrFgHgGCQXhwjJD2njW5FLlLBqCIYQY5HS5iX&did=65c906c26a8703f45f2f64b92bff8203e8697e75&ctype=21&ev=1";
+    NSString *url = @"http://s.dingboshi.cn:8080/school/file/201507/resource/79e01f8be9db444291257b067ccffbc7.mp4";
     //    url = @"http://vr.tudou.com/v2proxy/v2.m3u8?sid=95000&it=236056470&st=2";
     [_videoPlayManageView addTestDataWithVideoTitle:@"三分钟看清蝙蝠侠发展史" Url:url];
     _stateLabel.text = @"begin loading";
